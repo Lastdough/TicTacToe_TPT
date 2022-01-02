@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">TicTacToe_TPT</string>
+
+    <string name="Judul"></string>
+    <string name="playBtn">Start</string>
+    <string name="aboutBtn">About</string>
+
+    <string name="aboutText">
+        Copyright © 2021 Kelompok 7.
+    </string>
+
+    <string name="aboutText2">
+        All Right Reserved.
+    </string>
+
+    <string name="ver">
+        Version 1.5.1
+    </string>
+
+    <string name="judulPlayerSetup">Enter Your Name</string>
+    <string name="label1">Player 1</string>
+    <string name="label2">Player 2</string>
+    <string name="submitBtn">Submit</string>
+    <string name="nameHint">Enter Your Name</string>
+
+
+    <string name="ulangBtn">Try Again</string>
+    <string name="homeButton">Home</string>
+</resources>

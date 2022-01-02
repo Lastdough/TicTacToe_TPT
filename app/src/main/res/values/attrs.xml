@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="papanTicTacToe">
+        <attr name="papanColor" format="color"/>
+        <attr name="buletColor" format="color"/>
+        <attr name="silangColor" format="color"/>
+        <attr name="garisKemenangan" format="color"/>
+    </declare-styleable>
+</resources>
